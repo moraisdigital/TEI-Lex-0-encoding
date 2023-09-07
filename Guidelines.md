@@ -26,6 +26,8 @@ Salgado, A., Costa, R., Tasovac, T., & Simões, A. (2019). TEI Lex-0 In Action: 
 
 Salgado, A., Costa, R. (2019). A good TACTIC for lexicographical work: football terms encoded in TEI Lex-0. In Proceedings of the International Conference on Knowledge Engineering and Ontology Development: TOTh Conference 2019 – Terminology & Ontology: Theories and applications, pp. 381–398. Chambéry, França: SciTePress – Science and Technology.
 
+Tasovac, T., Herold, A., Salgado, A., Romary, L., Depuydt, K. (2023). Encoding Metadata for Dictionaries in TEI Lex-0. MEC TEI 2023 – Encoding Cultures. TEI Lex-0: Recent Developments and New Directions (panel). Germany, Paderborn University, 5–8 September 2023.
+
 Tasovac, T., Salgado, A., & Costa, R. (2020). Encoding polylexical units with TEI Lex-0: A case study. Slovenščina 2.0: Empirical, Applied and Interdisciplinary Research, 8(2), 28–57. doi:10.4312/slo2.0.2020.2.28-57. e-ISSN 2335-2736.
 
 Tasovac, T., Romary, L., Tóth-Czifra, E., Marinski, I. (2021). Lexicographic Data Seal of Compliance. Research Report. ELEXIS; DARIAH. ⟨hal-03344267⟩.

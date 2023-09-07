@@ -1,4 +1,4 @@
-# TEI Lex-0 Guidelines
+# Encoding Guidelines
 ### Ana Salgado
 
 ## xxxx

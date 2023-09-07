@@ -1,5 +1,5 @@
 # Encoding Guidelines
-### Ana Salgado, Boris Lehečka
+### Ana Salgado, Boris Lehečka...
 
 ## xxxx
 
